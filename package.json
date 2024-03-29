@@ -1,0 +1,23 @@
+{
+  "name": "@maliaraees/atm-machine",
+  "version": "1.0.2",
+  "description": "\"This is an ATM machine\"",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Malia Raees\"",
+  "license": "ISC",
+  "dependencies": {
+    "@maliaraees/atm-machine": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
